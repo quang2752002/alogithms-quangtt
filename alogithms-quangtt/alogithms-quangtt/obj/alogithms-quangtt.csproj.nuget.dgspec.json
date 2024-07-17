@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\CShap-MVC-QUANGTT\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt.csproj": {}
+    "D:\\C#\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt.csproj": {}
   },
   "projects": {
-    "D:\\C#\\CShap-MVC-QUANGTT\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt.csproj": {
+    "D:\\C#\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\CShap-MVC-QUANGTT\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt.csproj",
+        "projectUniqueName": "D:\\C#\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt.csproj",
         "projectName": "alogithms-quangtt",
-        "projectPath": "D:\\C#\\CShap-MVC-QUANGTT\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt.csproj",
+        "projectPath": "D:\\C#\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\CShap-MVC-QUANGTT\\alogithms-quangtt\\alogithms-quangtt\\obj\\",
+        "outputPath": "D:\\C#\\alogithms-quangtt\\alogithms-quangtt\\alogithms-quangtt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

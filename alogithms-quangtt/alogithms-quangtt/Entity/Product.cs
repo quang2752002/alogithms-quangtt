@@ -14,7 +14,6 @@ namespace alogithms_quangtt.Entity
         public int price { get; set; }
         public int quality { get; set; }
         public int categoryId { get; set; }
-        public string categoryName { get; set; }
         public Product() { }
         public Product(string name, int price, int quality, int categoryId)
         {
