@@ -13,7 +13,7 @@ namespace alogithms_quangtt
 		public static void mapProductByCategory(List<Product> listProduct, List<Category> listCategory)//bài 14 trả về danh sách product có chứa tên category tương ứng theo categoryId
 
 		{
-			Console.WriteLine("Danh sach san pham co ten danh muc");
+			Console.WriteLine("Danh sach san pham co ten danh muc la ");
 
 			foreach (Product product in listProduct)
 			{
@@ -21,7 +21,7 @@ namespace alogithms_quangtt
 				{
 					if (product.categoryId == category.id)
 					{
-						Program.printProduct(product);
+						Console.WriteLine(product.name + " " + product.price + " " + product.quality + " " + category.name);
 					}
 				}
 			}

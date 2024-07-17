@@ -12,6 +12,7 @@ namespace alogithms_quangtt
 	{
 		public static void SortByCategoryName(List<Product> listProduct, List<Category> listCategory)// bài 13 trả về danh sách product sắp xếp theo category name theo thứ tự abc. 
 		{
+			Console.WriteLine("Dnah sach product sap xep theo ten danh muc theo thu tu abc la");
 			Dictionary<int, string> categoryMap = new Dictionary<int, string>();
 			foreach (var category in listCategory)
 			{
@@ -31,7 +32,17 @@ namespace alogithms_quangtt
 				listProduct[j + 1] = keyProduct;
 			}
 
-			Program.printListProduct(listProduct);
+		
+			foreach (Product product in listProduct)
+			{
+				foreach (Category category in listCategory)
+				{
+					if (product.categoryId == category.id)
+					{
+						Console.WriteLine(product.name + " " + product.price + " " + product.quality + " " + category.name);
+					}
+				}
+			}
 		}
 
 	}

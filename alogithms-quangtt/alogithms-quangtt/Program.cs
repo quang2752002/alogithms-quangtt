@@ -5,7 +5,6 @@ namespace dao
 {
 	class Program
 	{
-
 		public static void printProduct(Product product)
 		{
 			Console.WriteLine(product.name + " " + product.price + " " + product.quality + " " + product.categoryId);
@@ -60,11 +59,11 @@ namespace dao
 			Console.WriteLine("Tinh luong ko dung de quy " + luong);
 
 
-			int months = Bai22.CalMonthRecursive(100, 50);   //  bài 22 Tính số tháng đề lãi +gốc gấp 2 lần gốc ko dùng đệ quy
+			int months = Bai22.CalMonthRecursive(100, 50);   //  bài 22 Tính số tháng đề lãi +gốc gấp 2 lần gốc dùng đệ quy
 
 			Console.WriteLine("So thang de lai + goc gap 2 lan goc la :" + months);
 
-			int thang = Bai22.CalMonthIterative(100, 50);
+			int thang = Bai22.CalMonthIterative(100, 50); //  bài 22 Tính số tháng đề lãi +gốc gấp 2 lần gốc ko dùng đệ quy
 			Console.WriteLine("So thang de lai + goc gap 2 lan goc la :" + thang);
 
 			List<Menu> menus = new List<Menu>

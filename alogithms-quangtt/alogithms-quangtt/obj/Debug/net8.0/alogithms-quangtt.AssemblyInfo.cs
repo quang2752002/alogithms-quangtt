@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alogithms-quangtt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf5357b3a251b8f0dc3ae483f658dd541d4180f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+571c612499c10a980ffa261635086742654bf2a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("alogithms-quangtt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("alogithms-quangtt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
