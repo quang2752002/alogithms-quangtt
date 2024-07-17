@@ -1,0 +1,15 @@
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\bin\Debug\net8.0\alogithms-quangtt.exe
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\bin\Debug\net8.0\alogithms-quangtt.deps.json
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\bin\Debug\net8.0\alogithms-quangtt.runtimeconfig.json
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\bin\Debug\net8.0\alogithms-quangtt.dll
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\bin\Debug\net8.0\alogithms-quangtt.pdb
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\obj\Debug\net8.0\alogithms-quangtt.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\obj\Debug\net8.0\alogithms-quangtt.AssemblyInfoInputs.cache
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\obj\Debug\net8.0\alogithms-quangtt.AssemblyInfo.cs
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\obj\Debug\net8.0\alogithms-quangtt.csproj.CoreCompileInputs.cache
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\obj\Debug\net8.0\alogithms-quangtt.sourcelink.json
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\obj\Debug\net8.0\alogithms-quangtt.dll
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\obj\Debug\net8.0\refint\alogithms-quangtt.dll
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\obj\Debug\net8.0\alogithms-quangtt.pdb
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\obj\Debug\net8.0\alogithms-quangtt.genruntimeconfig.cache
+D:\C#\CShap-MVC-QUANGTT\alogithms-quangtt\alogithms-quangtt\obj\Debug\net8.0\ref\alogithms-quangtt.dll
