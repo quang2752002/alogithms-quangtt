@@ -78,7 +78,7 @@ namespace dao
 			new Menu ( 7, "Moi truong ", 4),
 			new Menu ( 8, "Moi truong do thi ", 7),
 			};
-
+			Console.WriteLine("In menu da cap");
 			Bai23.PrintMenu(menus, 0, 0);
 
 

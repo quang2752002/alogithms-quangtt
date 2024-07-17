@@ -11,7 +11,7 @@ namespace alogithms_quangtt
 	{
 		public static void PrintMenu(List<Menu> menus, int parentId, int level)//in menu đa cấp
 		{
-			Console.WriteLine("In menu da cap");
+			
 			foreach (var menu in menus.Where(m => m.parentId == parentId))
 			{
 				Console.WriteLine(new string('-', level * 2) + menu.title);
